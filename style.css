@@ -10,3 +10,20 @@
 section {
   padding-top: 5rem;
 }
+
+@media(max-width:1250px){
+    .blog-box{
+        width: 300px;
+
+    }
+}
+@media(max-width:550px){
+    .blog-box{
+        margin: 20px 10px;
+        width : 100%;
+    }
+}
+
+#blog{
+    padding: 20px;
+}
